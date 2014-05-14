@@ -2,8 +2,8 @@
 pkgname=c720-modules
 _srcname=linux-3.14
 pkgver=3.14.3
-pkgrel=1
-_archkernver=${pkgver}-1-ARCH
+pkgrel=2
+_archkernver=${pkgver}-2-ARCH
 pkgdesc="Build patched modules to support acer c720."
 arch=('i686' 'x86_64')
 url="www.kernel.org"
